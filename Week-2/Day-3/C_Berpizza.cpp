@@ -40,13 +40,5 @@ int main(){
             }
         }
     }
-    // for(auto it=mp1.begin(); it!=mp1.end(); it++){
-    //     cout << it->first << " -> ";
-    //     while(!mp1[it->first].empty()){
-    //         cout << mp1[it->first].front() << " ";
-    //         mp1[it->first].pop();
-    //     }
-    //     cout << '\n';
-    // }
     return 0;
 }
