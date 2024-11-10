@@ -14,9 +14,6 @@ int main(){
         cin >> x;
         mp[x+1] = i;
     }
-    // for(auto it=mp.begin(); it!=mp.end(); it++){
-    //     cout << it->first <<  " " << it->second << '\n';
-    // }
     while(m--){
         ll x;
         cin >> x;
