@@ -1,0 +1,5 @@
+https://codeforces.com/problemset/problem/1256/A
+
+https://www.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1
+
+https://www.geeksforgeeks.org/problems/longest-k-unique-characters-substring0853/1
