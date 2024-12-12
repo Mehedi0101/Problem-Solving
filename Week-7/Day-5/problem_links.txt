@@ -1,2 +1,5 @@
-https://codeforces.com/problemset/problem/1420/B
+https://codeforces.com/problemset/problem/1763/A
 
+https://codeforces.com/problemset/problem/1559/A
+
+https://codeforces.com/problemset/problem/1420/B
