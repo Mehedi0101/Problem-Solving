@@ -1,1 +1,3 @@
 https://codeforces.com/problemset/problem/1669/E
+
+https://codeforces.com/problemset/problem/1669/G
