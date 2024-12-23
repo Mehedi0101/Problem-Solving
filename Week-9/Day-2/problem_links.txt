@@ -1,3 +1,5 @@
 https://codeforces.com/problemset/problem/735/D
 
+https://cses.fi/problemset/task/1095
+
 https://www.codechef.com/problems/FUM
