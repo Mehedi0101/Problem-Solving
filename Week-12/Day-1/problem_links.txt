@@ -1,1 +1,4 @@
 https://cses.fi/problemset/task/1713
+
+https://codeforces.com/problemset/problem/1881/D
+
