@@ -1,1 +1,3 @@
 https://codeforces.com/problemset/problem/600/B
+
+https://www.spoj.com/problems/INVCNT/en/
