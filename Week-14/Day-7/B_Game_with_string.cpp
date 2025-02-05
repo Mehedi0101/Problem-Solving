@@ -12,14 +12,14 @@ int main() {
     ll k = 0;
     string s;
     cin >> s;
-    stack<char> st;
-    
+    stack<char> stk;
+
     for (char c : s) {
-        if (!st.empty() && st.top() == c) {
+        if (!stk.empty() && stk.top() == c) {
             k++;
-            st.pop();
+            stk.pop();
         } else {
-            st.push(c);
+            stk.push(c);
         }
     }
     
