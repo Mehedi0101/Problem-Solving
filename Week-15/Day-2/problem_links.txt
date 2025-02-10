@@ -1,1 +1,3 @@
 https://codeforces.com/problemset/problem/1901/A
+
+https://leetcode.com/problems/permutations/description/
