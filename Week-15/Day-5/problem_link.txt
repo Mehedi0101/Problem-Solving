@@ -1,3 +1,5 @@
 https://codeforces.com/problemset/problem/1907/A
 
+https://codeforces.com/problemset/problem/1821/C
+
 https://leetcode.com/problems/combination-sum/description/
