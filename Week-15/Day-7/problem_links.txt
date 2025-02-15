@@ -1,1 +1,3 @@
 https://codeforces.com/problemset/problem/1705/C
+
+https://leetcode.com/problems/n-queens/
