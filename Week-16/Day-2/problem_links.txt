@@ -1,1 +1,3 @@
 https://codeforces.com/problemset/problem/1900/C
+
+https://codeforces.com/problemset/problem/1143/C
