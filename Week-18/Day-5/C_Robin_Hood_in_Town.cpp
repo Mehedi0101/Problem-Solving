@@ -12,15 +12,15 @@ int main() {
     ios_base::sync_with_stdio(false);
     cin.tie(NULL);
 
-    int t;
+    ll t;
     cin >> t;
     while (t--) {
-        int n;
+        ll n;
         cin >> n;
-        vector<int> a(n);
+        vector<ll> a(n);
         ll sum = 0;
 
-        for (int i = 0; i < n; i++) {
+        for (ll i = 0; i < n; i++) {
             cin >> a[i];
             sum += a[i];
         }
@@ -30,7 +30,7 @@ int main() {
         if (n < 3) {
             cout << -1 << endl;
         } else {
-            int median = a[n / 2];
+            ll median = a[n / 2];
             ll required = 2 * median * n;
             ll result = max(0LL, required + 1 - sum);
             cout << result << endl;
