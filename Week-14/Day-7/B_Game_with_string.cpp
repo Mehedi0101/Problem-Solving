@@ -12,6 +12,7 @@ int main() {
     ll k = 0;
     string s;
     cin >> s;
+    
     stack<char> stk;
 
     for (char c : s) {
